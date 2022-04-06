@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanRandomSum.Domain/1.0.0": {
+        "runtime": {
+          "CleanRandomSum.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanRandomSum.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

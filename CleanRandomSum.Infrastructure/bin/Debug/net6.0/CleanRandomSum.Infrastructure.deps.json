@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanRandomSum.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CleanRandomSum.Application": "1.0.0"
+        },
+        "runtime": {
+          "CleanRandomSum.Infrastructure.dll": {}
+        }
+      },
+      "CleanRandomSum.Application/1.0.0": {
+        "dependencies": {
+          "CleanRandomSum.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanRandomSum.Application.dll": {}
+        }
+      },
+      "CleanRandomSum.Domain/1.0.0": {
+        "runtime": {
+          "CleanRandomSum.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanRandomSum.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanRandomSum.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanRandomSum.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

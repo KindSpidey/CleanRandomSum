@@ -1,0 +1,12 @@
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\bin\Debug\net6.0\CleanRandomSum.Domain.deps.json
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\bin\Debug\net6.0\CleanRandomSum.Domain.dll
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\bin\Debug\net6.0\CleanRandomSum.Domain.pdb
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.csproj.AssemblyReference.cache
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.AssemblyInfoInputs.cache
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.AssemblyInfo.cs
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.csproj.CoreCompileInputs.cache
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.dll
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\refint\CleanRandomSum.Domain.dll
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\CleanRandomSum.Domain.pdb
+D:\Github\CleanRandomSum\CleanRandomSum\CleanRandomSum.Domain\obj\Debug\net6.0\ref\CleanRandomSum.Domain.dll

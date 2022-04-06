@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CleanRandomSum.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CleanRandomSum.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanRandomSum.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanRandomSum.Application.dll": {}
+        }
+      },
+      "CleanRandomSum.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CleanRandomSum.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanRandomSum.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanRandomSum.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanRandomSum.Application/CleanRandomSum.Application.csproj",
+      "msbuildProject": "../CleanRandomSum.Application/CleanRandomSum.Application.csproj"
+    },
+    "CleanRandomSum.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanRandomSum.Domain/CleanRandomSum.Domain.csproj",
+      "msbuildProject": "../CleanRandomSum.Domain/CleanRandomSum.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CleanRandomSum.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\d_pug\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Github\\CleanRandomSum\\CleanRandomSum\\CleanRandomSum.Infrastructure\\CleanRandomSum.Infrastructure.csproj",
+      "projectName": "CleanRandomSum.Infrastructure",
+      "projectPath": "D:\\Github\\CleanRandomSum\\CleanRandomSum\\CleanRandomSum.Infrastructure\\CleanRandomSum.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\d_pug\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\CleanRandomSum\\CleanRandomSum\\CleanRandomSum.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\d_pug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Github\\CleanRandomSum\\CleanRandomSum\\CleanRandomSum.Application\\CleanRandomSum.Application.csproj": {
+              "projectPath": "D:\\Github\\CleanRandomSum\\CleanRandomSum\\CleanRandomSum.Application\\CleanRandomSum.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
